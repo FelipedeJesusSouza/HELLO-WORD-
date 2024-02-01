@@ -1,4 +1,4 @@
-# HELLO, WORD! 
- PRIMEIRO REPOSITORIO 
+# Hello, WORD! 
+ Primeiro  Repositorio  
 
- O COMEÇO 
+ O começo
